@@ -99,4 +99,64 @@ export const people = [
     eye_color: 'blue-gray',
     gender: 'male',
   },
-]
+];
+
+export const nanatsuPerson = [
+  {
+    id: '1',
+    name: 'Meliodas',
+    Sin: 'Ira',
+    Historia: 'O capitão dos Sete Pecados Capitais. O pecado capital da Ira do Dragão, e o pecado mais forte. Ele foi inspirado no Rei Meliodas na lendas Arturianas que foi famoso por ser o dono do bar Chapéu de Javali, conhecido por sua excelente bebida e horrível comida (cozida por Meliodas no começo e posteriormente por Ban). Apesar de parecer uma criança, ele é extremamente poderoso e muito mais velho do que parece já que ele tem mais de 3000 anos. Mesmo sendo conhecido como pecado da Ira, ele raramente fica bravo e é muito brincalhão, pervertido, confiante e gentil com aqueles com que se importa. Porém, faz parte do clã dos demônios, aonde já foi: próximo rei demônio e líder dos Dez Mandamentos, sendo irmão de Estarossa (Arcanjo Mael) e Zeldris (executor do rei demônio), sendo os dois dos dez mandamentos. Sem contar sua popularidade como o demônio amaldiçoado. O motivo de seu titulo como pecado da ira é que, por uma questão de raiva com o mandamento da abnegação substituto, Fraudrin, que matou sua amada Liz, ele destruiu a cidade de Danafall.',
+    Tesouro: 'Lostvayne',
+    gender: 'M',
+  },
+  {
+    id: '2',
+    name: 'Diane ',
+    Sin: 'Inveja',
+    Historia: 'O pecado capital da inveja da Serpente. Faz parte do clã de gigantes, possui um enorme poder físico e uma conexão profunda com a terra. Ela é confiante, pavio curto e fará qualquer coisa para proteger uma vida inocente. Ela é apaixonada pelo Capitão, Meliodas, e sente ciúme de qualquer mulher que mostra interesse por ele. Ela se torna a melhor amiga de Elizabeth, mas sente inveja da afeição do Capitão por Elizabeth em vez dela. Seu titulo de pecado da inveja vem pelo motivo de, por questão de inveja, matou a gigante Matrona, mas na verdade foi um grupo de bárbaros. Mais tarde (na segunda temporada), King transforma-se no grande amor da gigante, e o mesmo também ama reciprocamente ela, alem de protege-la a todo custo.',
+    Tesouro: 'Gideon',
+    gender: 'F',
+  },
+  {
+    id: '3',
+    name: 'Ban ',
+    Sin: 'Ganância',
+    Historia: 'O pecado capital da Ganância da Raposa. Também conhecido como Ban, o Imortal. Ban é um homem alto, magro mas com músculos definidos graças ao seu poder de caçada da raposa. Ele é baseado no rei Ban nas lendas Arturianas que é famoso por ser o pai de Lancelot. Ele é agressivo em suas lutas, porém descontraído fora delas, além de ser um exímio cozinheiro e aparentar se preocupar apenas com Meliodas e os outros pecados acima de seus próprios interesses, com exceção da sua amada Elaine, por quem ele faria qualquer coisa para tê-la em seus braços. Apesar de ser o pecado da ganância, ele tem um coração profundamente carinhoso e teme perder aqueles com quem se importa. Ele também aparenta ser masoquista (diante de sua imortalidade, a dor física parece não incomoda-lo) e adora desafios.',
+    Tesouro: 'Courechouse',
+    gender: 'M',
+  },
+  {
+    id: '4',
+    name: 'King/Harlequin',
+    Sin: 'Preguiça',
+    Historia: 'O pecado capital da preguiça do Urso. Seu verdadeiro nome é Harlequin e ele é o terceiro Rei das Fadas e protetor da Floresta das Fadas e da Fonte da Juventude em seu interior. King é gentil, empático, respeitoso, mas feroz quando necessário. King, assim como Meliodas, aparenta ser uma criança, porém esta é uma característica das fadas e não se sabe ao certo mas, as fadas assim como King, podem se transformar instantaneamente em um `humano mais adulto`. Ele é `secretamente` apaixonado por Diane. O motivo de seu titulo de pecado da preguiça é pelo motivo que por ter muita preguiça, não impediu uma chacina de uma cidade perto dele, mas na verdade, só chegou atrasado, e isso também está atribuído ao fato dele estar sempre dormindo no Chastiefol, seu tesouro sagrado, assim ele não evolui, sendo então, uma fada sem asas. Quando precisa defender quem ama, King libera um poder incrível.',
+    Tesouro: 'Chastiefol',
+    gender: 'M',
+  },
+  {
+    id: '5',
+    name: 'Gowther',
+    Sin: 'Luxúria',
+    Historia: 'O pecado capital da Luxúria da Cabra. Ele é baseado no rei Sir Gowther nas lendas Arturianas que e famoso por ser meio-irmão de Merlin. Não se sabe ao certo as origens de Gowther, mas ele é incapaz de ter sentimentos ou emoções, além de não entender muito sobre interações sociais, mas faz o seu melhor para tentar entendê-las, passando muito de seu tempo com leituras. Ele é observador, indiferente e extremamente lógico. Ele é conhecido por afirmar factos observados ou óbvios sem considerar os sentimentos dos outros. Apesar de tudo, aparenta ser bastante fiel para/com Meliodas. Sem contar que é um dos antigos Dez Mandamentos, ainda mais, é apenas um fantoche criado por Gowther, um demônio banido pelo rei demônio. Seu titulo de pecado da luxuria vem pelo motivo de ser acusado de estuprar a irmã do rei de Liones e depois mata-la, mas eles eram amantes e ela apresentava uma doença cardíaca.',
+    Tesouro: 'Herritt',
+    gender: 'M',
+  },
+  {
+    id: '6',
+    name: 'Merlin',
+    Sin: 'Gula',
+    Historia: 'O pecado capital da Gula do Javali. Merlin é conhecida como a maior feiticeira em toda a Britânia. Merlin aparenta ter um caráter lúdico. Ela gosta de zombar e de desafiar os outros e se mostra bastante sábia em suas palavras. Merlin é uma mulher relativamente alta, com aparência `pecaminosa` e com uma personalidade sapiente. Merlin ao nascer, foi descoberto que ela possuía um poder imenso, o `Infinity`, Por causa disso recebeu as bençãos do Rei Demônio e da Divindade Suprema, eles concederam a ela sabedoria sobre conhecimentos jamais descobertos pela humanidade e nenhuma outra raça, além de proteções divinas a qualquer mal. O personagem é baseado no feiticeiro Merlin nas lendas Arturianas. O titulo de pecado da gula é dado porque Merlin sempre quer ter mais e mais poder e conhecimento.',
+    Tesouro: 'Aldan',
+    gender: 'F',
+  },
+  {
+    id: '7',
+    name: 'Escanor',
+    Sin: 'Orgulho',
+    Historia: 'O pecado capital do Orgulho do Leão. Sua força e personalidade variam de acordo com a hora do dia, com o seu poder sendo imenso e sua personalidade arrogante e orgulhoso durante o dia, mas se tornando frágil e submisso a noite. Recentemente foi descoberto que Escanor possui a `Graça` (poder concedido pela Divindade Suprema aos Quatro Arcanjos) que era poder do Irmão de Ludociel, `Mael`, o arcanjo mais forte de todos, que foi morto na guerra santa por Estarossa, irmão de Meliodas, e teve sua graça passada ao Escanor. Ele demonstra ter sentimentos por Merlin. Uma curiosidade é que Suzuki Nakaba (criador da obra) descreveu o poder de Escanor como imensurável no Fanbook número 2 (holy of sins, 2016). Escanor é o único personagem com o poder descrito de tal forma.',
+    Tesouro: 'Rhitta',
+    gender: 'M',
+  },
+];
+
